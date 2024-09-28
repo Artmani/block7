@@ -1,0 +1,10 @@
+@import 'src/scss/base/variables';
+
+html,
+body {
+  font-family: $font-main;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: $background-color-main;
+}
